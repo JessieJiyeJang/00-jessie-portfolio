@@ -8,7 +8,7 @@ This repository showcases all of my end-to-end data analytics projects, includin
 
 ### **01 — Bank Customer Analysis (End-to-End Project)**
 Customer segmentation, branch operations insights, weather/weekday impact analysis, and PowerBI dashboards.
-🔗 Repo: https://github.com/USERNAME/01-bank-customer-analysis  
+🔗 Repo:  
 📌 Skills: Python, EDA, ML, PCA, powerBI
 
 ---
